@@ -20,6 +20,3 @@ USER 1001
 
 # Set working directory
 WORKDIR /home/rosa-user
-
-# Default command
-ENTRYPOINT ["/usr/local/bin/rosa"]
